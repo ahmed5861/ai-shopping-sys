@@ -1,0 +1,17 @@
+# AI Shopping System Project Requirements
+
+## Business Requirements
+
+1. **Increase Sales Revenue**
+   - The AI shopping system should boost sales by offering personalized recommendations based on customer preferences and shopping history.
+
+2. **Enhance Customer Satisfaction**
+   - The system must provide a seamless and intuitive user experience, including features like real-time support and simplified checkout processes.
+
+## Functional Requirements
+
+1. **Personalized Recommendation Engine**
+   - The system must analyze user data such as browsing history, purchase history, and preferences to generate product recommendations.
+
+2. **Real-Time Inventory Management**
+   - The system should dynamically update product availability and notify users about stock levels during the shopping process.
